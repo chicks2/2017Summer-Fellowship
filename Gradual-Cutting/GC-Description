@@ -1,5 +1,13 @@
 <msDesc>
-   <msIntifier></msIntifier>
+   <msIntifier>
+      <country>USA</country>
+      <region>South Carolina</region>
+      <settlement>Greenville</settlement>
+      <repository>Furman University Library</repository>
+      <collection>Special Collections and Archives</collection>
+      <collection>2015-2016 Acquisitions</collection>
+      <idno>????</idno>
+   </msIntifier>
    <msContents></msContents>
    <physDesc></physDesc>
    <additional></additional>
