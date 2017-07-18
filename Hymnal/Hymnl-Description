@@ -1,34 +1,34 @@
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title></title>
-         </titleStmt>
-         <publicationStmt>
-           <p>Unpublished</p>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <country>USA</country>
-                  <region>South Carolina</region>
-                  <settlement>Greenville</settlement>
-                  <repository>Furman University Library</repository>
-                  <collection>Special Collections and Archives</collection>
-                  <collection>2015-2016 Acquisitions</collection>
-                  <idno>????</idno>
-               </msIdentifier>
-               <msContents></msContents>
-               <physDesc>Single cutting on Vellum. Remains of four five-line staves in red.
-                  Decoration: a large initial U in green and various shades of blue with white
-                  penwork highlights infilled with green, blue, and yellow foliage on a maroon
-                  background, all on bright gold grounds; a foliate extension in the margin
-                  with multi-colored flowers, stems, and foliage, enhanced by gold bezants and
-                  white penwork. Condition: stightly dark, stiff, and cockled, but the initial
-                  remains in very good condition</physDesc>
-                  <history><origin><origPlace>Italy, probably Ferrara</origPlace>, <origDate>
-                  ca. 1460</origDate></origin></history>
-                  <additional></additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-   </teiHeader>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+         <msDesc>
+            <msIdentifier>
+            <country>USA</country>
+               <region>South Carolina</region>
+               <settlement>Greenville</settlement>
+               <repository>Furman University Library</repository>
+               <collection>Special Collections and Archives</collection>
+               <collection>2015-2016 Acquisitions</collection>
+               <idno>????</idno>
+            </msIdentifier>
+            <msContents></msContents>
+            <physDesc>Single cutting on Vellum. Remains of four five-line staves in red.
+               Decoration: a large initial U in green and various shades of blue with white
+               penwork highlights infilled with green, blue, and yellow foliage on a maroon
+               background, all on bright gold grounds; a foliate extension in the margin
+               with multi-colored flowers, stems, and foliage, enhanced by gold bezants and
+               white penwork. Condition: stightly dark, stiff, and cockled, but the initial
+               remains in very good condition</physDesc>
+            <history><origin><origPlace>Italy, probably Ferrara</origPlace>, <origDate>
+               ca. 1460</origDate></origin></history>
+            <additional></additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+</teiHeader>
