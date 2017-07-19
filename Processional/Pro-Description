@@ -1,18 +1,33 @@
-<msDesc>
-   <msIdentifier>
-      <country>USA</country>
-      <region>South Carolina</region>
-      <settlement>Greenville</settlement>
-      <repository>Furman University Library</repository>
-      <collection>Special Collections and Archives</collection>
-      <collection>2015-2016 Acquisitions</collection>
-      <idno>????</idno>
-   </msIdentifier>
-   <head></head>
-   <msContents>Text: responses for a Procession conducted on Maundy Thursday
-      (Holy Thursday)</msContents>
-   <physDesc>Single folio on vellum. Six four-line staves in red. Condition:
-      excellent; a small irregular hole shows an original repair</physDesc>
-   <history><origin><origPlace>Northern Europe, probably northwest Germany</origPlace>,
-      <origDate>ca. 1470</origDate></origin></history>
-</msDesc>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+         <msDesc>
+            <msIdentifier>
+               <country>USA</country>
+               <region>South Carolina</region>
+               <settlement>Greenville</settlement>
+               <repository>Furman University Library</repository>
+               <collection>Special Collections and Archives</collection>
+               <collection>2015-2016 Acquisitions</collection>
+               <idno>????</idno>
+            </msIdentifier>
+            <head></head>
+            <msContents>Text: responses for a Procession conducted on Maundy Thursday
+               (Holy Thursday)
+            </msContents>
+            <physDesc>Single folio on vellum. Six four-line staves in red. Condition:
+               excellent; a small irregular hole shows an original repair
+            </physDesc>
+            <history><origin><origPlace>Northern Europe, probably northwest Germany</origPlace>,
+               <origDate>ca. 1470</origDate></origin>
+            </history>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+</teiHeader>
