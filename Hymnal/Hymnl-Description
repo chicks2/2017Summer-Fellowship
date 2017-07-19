@@ -1,7 +1,7 @@
 <teiHeader>
    <fileDesc>
       <titleStmt>
-         <title></title>
+         <title>Hymnal for Holy Week</title>
       </titleStmt>
       <publicationStmt>
         <p>Unpublished</p>
@@ -17,7 +17,16 @@
                <collection>2015-2016 Acquisitions</collection>
                <idno>????</idno>
             </msIdentifier>
-            <msContents></msContents>
+            <msContents>
+               <summary>Fragments of 2 hymns for Holy Week</summary>
+               <msItem n="1">
+                  <title>"Aures ad nostras"</title>
+               </msItem>
+               <msItem n="2">
+                  <title>"Vexilla Regis"</title>
+               </msItem>
+               <textLang mainLang="la">Latin</textLang>
+            </msContents>
             <physDesc>
                <objectDesc>
                   <supportDesc material="perg">
@@ -26,15 +35,54 @@
                      </support>
                      <extent>1 folio
                         <dimensions scope="all" type="folio" unit="mm">
-                           <height></height>
-                           <width></width>
+                           <height>445</height>
+                           <width>335</width>
                         </dimensions>
                      </extent>
+                     <condition>
+                        <p>The manuscript shows slight discolouration and has some glue reidue
+                           around the edges, but otherwise is in excellent condition.</p>
+                     </condition>
                   </supportDesc>
+                  <layoutDesc>
+                     <layout columns="2" writtenLines="18">
+                        <p>Written in two columns with space for 18 lines of text in each column.</p>
+                     </layout>
+                  </layoutDesc>
+                  <handDesc>
+                     <p>Information about the handwriting...LOOK THIS UP!!!!!!!</p>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <p>Eight one-line high initials in alternating red and blue with contrasting penwork</p>
+                     </decoNote>
+                     <decoNote type="initial">
+                        <p>One two-line high initial in blue with red penwork infilled with yellow</p>
+                     </decoNote>
+                     <decoNote type="initial">
+                        <p>One staff high initial in red with blue penwork</p>
+                     </decoNote>
+                  </decoDesc>
+                  <musicNotation>
+                     <p>Square notation on both 3-line and 4-line red staves</p>
+                  </musicNotation>
                </objectDesc>
             </physDesc>
-            <history><origin><origPlace></origPlace>, <origDate></origDate></origin></history>
-            <additional></additional>
+            <history>
+               <origin>
+                  <origPlace>central Italy</origPlace>
+                  <origDate>ca. 1450</origDate>
+               </origin>
+            </history>
+            <additional>
+               <recordHist>
+                  <source>
+                     <p>Transcribed from existing description.</p>
+                  </source>
+                  <change when="2017-07-19">On July 19 2017 <name>CMH</name> added a more detailed
+                  physical description of the manuscript</change>
+               </recordHist>
+            </additional>
          </msDesc>
       </sourceDesc>
    </fileDesc>

@@ -1,14 +1,46 @@
-<msDesc>
-   <msIntifier>
-      <country>USA</country>
-      <region>South Carolina</region>
-      <settlement>Greenville</settlement>
-      <repository>Furman University Library</repository>
-      <collection>Special Collections and Archives</collection>
-      <collection>2015-2016 Acquisitions</collection>
-      <idno>????</idno>
-   </msIntifier>
-   <msContents></msContents>
-   <physDesc></physDesc>
-   <additional></additional>
-</msDesc>
+<teiHeader>
+   <fileDesc>
+      <titleStmt>
+         <title></title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+         <msDesc>
+            <msIdentifier>
+            <country>USA</country>
+               <region>South Carolina</region>
+               <settlement>Greenville</settlement>
+               <repository>Furman University Library</repository>
+               <collection>Special Collections and Archives</collection>
+               <collection>2015-2016 Acquisitions</collection>
+               <idno>????</idno>
+            </msIdentifier>
+            <msContents></msContents>
+            <physDesc>
+               <objectDesc form="folio">
+                  <supportDesc material="perg">
+                     <support>
+                        <p>Parchment</p>
+                     </support>
+                     <extent>1 cutting
+                        <dimensions scope="all" type="folio" unit="mm">
+                           <height>295</height>
+                           <width>202</width>
+                        </dimensions>
+                     </extent>
+                  </supportDesc>
+                  <layoutDesc>
+                    <layout columns="1">
+                       <p>In double columns.</p>
+                    </layout>
+                 </layoutDesc>
+               </objectDesc>
+            </physDesc>
+            <history><origin><origPlace></origPlace>, <origDate></origDate></origin></history>
+            <additional></additional>
+         </msDesc>
+      </sourceDesc>
+   </fileDesc>
+</teiHeader>
