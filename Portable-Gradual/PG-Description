@@ -18,10 +18,66 @@
                <collection>2015-2016 Acquisitions</collection>
                <idno>????</idno>
             </msIdentifier>
-            <msContents></msContents>
-            <physDesc></physDesc>
-            <history></history>
-            <additional></additional>
+            <msContents>
+               <summary>Text from the Sanctorale of a portable Gradual for the Feast of St. James the Apostle
+                  with Introit, Psalms, Graduals, Versicles, and most of the Offertory</summary>
+               <textLang mainLang="la">Latin</textLang>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc material="perg">
+                     <support>
+                        <p>Vellum</p>
+                     </support>
+                     <extent>1 folio
+                        <dimensions scope="all" type="folio" unit="mm">
+                           <height>302</height>
+                           <width>218</width>
+                        </dimensions>
+                     </extent>
+                     <foliation>
+                        <p>Paginated 335 and 336 in early modern pen</p>
+                     </foliation>
+                     <condition>
+                        <p>The manuscript is in good condition with some evidence of glue residue around the
+                           edges of the verso.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="1">
+                        <p>Written in one column with 11 staves.</p>
+                     </layout>
+                  </layoutDesc>
+                  <handDesc>
+                     <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <p>Eleven one-line high initials in alternating red and blue with contrasting penwork</p>
+                     </decoNote>
+                     <decoNote type="initial">
+                        <p>One two-line high initial (50mm X 50mm) in blue with red penwork and green tinting</p>
+                     </decoNote>
+                  </decoDesc>
+                  <musicNotation>
+                     <p>Square notation on both 4-line and 5-line red staves</p>
+                  </musicNotation>
+                  <additions>
+                     <p>The notation and text seem to have been corrrected and updated in the siteenth or
+                        seventeenth century</p>
+                  </additions>
+               </objectDesc>
+            </physDesc>
+            <history>
+               <origin>
+                  <origPlace>Northern France or Flanders</origPlace>
+                  <origDate>ca. 1230</origDate>
+               </origin>
+            </history>
+            <additional>
+               <change when="2017-07-20">On July 19 2017 <name>CMH</name> added a more detailed
+               physical description of the manuscript</change>
+            </additional>
          </msDesc>
       </sourceDesc>
    </fileDesc>
