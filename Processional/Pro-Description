@@ -18,16 +18,62 @@
                <collection>2015-2016 Acquisitions</collection>
                <idno>????</idno>
             </msIdentifier>
-            <head></head>
-            <msContents>Text: responses for a Procession conducted on Maundy Thursday
-               (Holy Thursday)
+            <msContents>
+               <summary>Responses for a Procession conducted on Maundy Thursday
+               (Holy Thursday)</summary>
             </msContents>
-            <physDesc>Single folio on vellum. Six four-line staves in red. Condition:
-               excellent; a small irregular hole shows an original repair
+            <physDesc>
+               <objectDesc>
+                  <supportDesc material="perg">
+                     <support>
+                        <p>Vellum</p>
+                     </support>
+                     <extent>1 folio
+                        <dimensions scope="all" type="folio" unit="mm">
+                           <height>174</height>
+                           <width>125</width>
+                        </dimensions>
+                     </extent>
+                     <condition>
+                        <p>In excellent condition; has one small irregular hole showing an original repair</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="1">
+                        <p>Written in one column with six staves.</p>
+                     </layout>
+                  </layoutDesc>
+                  <handDesc>
+                     <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <p>One staff high initial in red</p>
+                     </decoNote>
+                     <decoNote type="initial">
+                        <p>One staff high initial in black infilled with red</p>
+                     </decoNote>
+                  </decoDesc>
+                  <musicNotation>
+                     <p>Square notation on 4-line red staves</p>
+                  </musicNotation>
+               </objectDesc>
             </physDesc>
-            <history><origin><origPlace>Northern Europe, probably northwest Germany</origPlace>,
-               <origDate>ca. 1470</origDate></origin>
+            <history>
+               <origin>
+                  <origPlace>Northern Europe, probably northwest Germany</origPlace>,
+                  <origDate>ca. 1470</origDate>
+               </origin>
             </history>
+            <additional>
+               <recordHist>
+                  <source>
+                     <p>Transcribed from existing description.</p>
+                  </source>
+                  <change when="2017-07-20">On July 19 2017 <name>CMH</name> added a more detailed
+                  physical description of the manuscript</change>
+               </recordHist>
+            </additional>
          </msDesc>
       </sourceDesc>
    </fileDesc>
