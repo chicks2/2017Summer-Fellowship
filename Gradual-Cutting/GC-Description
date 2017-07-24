@@ -18,29 +18,55 @@
                <collection>2015-2016 Acquisitions</collection>
                <idno>????</idno>
             </msIdentifier>
-            <msContents></msContents>
             <physDesc>
-               <objectDesc form="folio">
+               <objectDesc>
                   <supportDesc material="perg">
                      <support>
-                        <p>Parchment</p>
+                        <p>Vellum</p>
                      </support>
-                     <extent>1 cutting
-                        <dimensions scope="all" type="folio" unit="mm">
+                     <extent>Cutting from 1 folio
+                        <dimensions scope="all" type="cutting" unit="mm">
                            <height>295</height>
                            <width>202</width>
                         </dimensions>
                      </extent>
+                     <condition>
+                        <p>The manuscript is slightly dark, stiff, and cockled, but the initial remains in very
+                           good condition.</p>
+                     </condition>
                   </supportDesc>
-                  <layoutDesc>
-                    <layout columns="1">
-                       <p>In double columns.</p>
-                    </layout>
-                 </layoutDesc>
+                  <handDesc>
+                     <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <p>One large initial (56mm X 67mm)in green and various shades of blue with white penwork
+                           highlights infilled with green, blue, and yellow foliage on a maroon background, all
+                           on bright gold grounds; a foliate extension in the margin with multi-colored flowers, 
+                           stems, and foliage, enhanced by gold bezants and white penwork.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <musicNotation>
+                     <p>Square notation on 4-line red staves</p>
+                  </musicNotation>
                </objectDesc>
             </physDesc>
-            <history><origin><origPlace></origPlace>, <origDate></origDate></origin></history>
-            <additional></additional>
+            <history>
+               <origin>
+                  <origPlace>Italy, probably Ferrara</origPlace>
+                  <origDate>ca. 1460</origDate>
+               </origin>
+            </history>
+            <additional>
+               <recordHist>
+                  <source>
+                     <p>Transcribed from existing description.</p>
+                  </source>
+                  <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
+                     physical description of the manuscript
+                  </change>
+               </recordHist>
+            </additional>
          </msDesc>
       </sourceDesc>
    </fileDesc>
