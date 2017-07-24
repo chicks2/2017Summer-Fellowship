@@ -18,7 +18,10 @@
                <collection>2015-2016 Acquisitions</collection>
                <idno>????</idno>
             </msIdentifier>
-            <msContents></msContents>
+            <msContents>
+               <summary>Text from the introit "Spiritus Domini" for the feast of Pentecost</summary>
+               <textLang mainLang="la">Latin</textLang>
+            </msContents>
             <physDesc>
                <objectDesc>
                   <supportDesc material="perg">
