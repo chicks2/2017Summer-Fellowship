@@ -18,10 +18,75 @@
                <collection>2015-2016 Acquisitions</collection>
                <idno>????</idno>
             </msIdentifier>
-            <msContents></msContents>
-            <physDesc></physDesc>
-            <history></history>
-            <additional></additional>
+            <msContents>
+               <summary>Text contains the end of the first and opening of second nocturn for an unspecified
+                  Matins service.</summary>
+               <textLang mainLang="la">Latin</textLang>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc material="perg">
+                     <support>
+                        <p>Vellum</p>
+                     </support>
+                     <extent>1 folio
+                        <dimensions scope="all" type="folio" unit="mm">
+                           <height>616</height>
+                           <width>445</width>
+                        </dimensions>
+                     </extent>
+                     <condition>
+                        <p>The manuscript is in very good condition with some slight discoloration around
+                           the edges.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="1">
+                        <p>Written in one column.</p>
+                     </layout>
+                  </layoutDesc>
+                  <handDesc>
+                     <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="initial">
+                        <p>Five one-line high initials in alternating red and blue with contrasting penwork</p>
+                     </decoNote>
+                     <decoNote type="initial">
+                        <p>A staff-high initial in red with blue penwork. This initial was made using a compass
+                           and you can still see the pinprick where one leg had been stuck into the vellum.</p>
+                     </decoNote>
+                  </decoDesc>
+                  <musicNotation>
+                     <p>Square notation on 4-line red staves</p>
+                  </musicNotation>
+                  <additions>
+                     <p>The folio has two kinds of corrections: erasures (the ghostly letters are still visible)
+                        and pasting a piece of parer over a word to be omitted (too many alleluias).</p>
+                  </additions>
+               </objectDesc>
+               <bindingDesc>
+                  <p>There is evidence of three tabs, all successively more robust and some reinforced by paper.  
+                     These must have broken off due to continuous use.  Each replacement was made stronger than
+                     the previous.</p>
+               </bindingDesc>
+            </physDesc>
+            <history>
+               <origin>
+                  <origPlace>Italy</origPlace>
+                  <origDate>ca. 1500</origDate>
+               </origin>
+            </history>
+            <additional>
+               <recordHist>
+                  <source>
+                     <p>Transcribed from existing description.</p>
+                  </source>
+                  <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
+                     physical description of the manuscript
+                  </change>
+               </recordHist>
+            </additional>
          </msDesc>
       </sourceDesc>
    </fileDesc>
