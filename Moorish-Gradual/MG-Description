@@ -1,94 +1,82 @@
-<teiHeader>
-   <fileDesc>
-      <titleStmt>
-         <title></title>
-      </titleStmt>
-      <publicationStmt>
-        <p>Unpublished</p>
-      </publicationStmt>
-      <sourceDesc>
-         <msDesc>
-            <msIdentifier>
-               <country>USA</country>
-               <region>South Carolina</region>
-               <settlement>Greenville</settlement>
-               <institution>Furman University</institution>
-               <repository>James B. Duke Library</repository>
-               <collection>Special Collections and Archives</collection>
-               <collection>2015-2016 Acquisitions</collection>
-               <idno>????</idno>
-            </msIdentifier>
-            <msContents>
-               <summary>Text from the introit "Spiritus Domini" for the feast of Pentecost</summary>
-               <textLang mainLang="la">Latin</textLang>
-            </msContents>
-            <physDesc>
-               <objectDesc>
-                  <supportDesc material="perg">
-                     <support>
-                        <p>Vellum</p>
-                     </support>
-                     <extent>1 folio
-                        <dimensions scope="all" type="folio" unit="mm">
-                           <height>526</height>
-                           <width>352</width>
-                        </dimensions>
-                     </extent>
-                     <condition>
-                        <p>The manuscript is in good condition with some discoloration around the edges.</p>
-                     </condition>
-                  </supportDesc>
-                  <layoutDesc>
-                     <layout columns="1">
-                        <p>Written in one column with 7 staves.</p>
-                     </layout>
-                  </layoutDesc>
-                  <handDesc>
-                     <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
-                  </handDesc>
-                  <decoDesc>
-                     <decoNote type="capitals">
-                        <p>15 black capitals with green highlighting.</p>
-                     </decoNote>
-                     <decoNote type="initial">
-                        <p>A large puzzle initial S (95mm X 102mm) in red and blue infilled with elaborate
-                           penwork in red and green</p>
-                     </decoNote>
-                     <decoNote type="initial">
-                        <p>One staff-initial in red with contrasting purple penwork</p>
-                     </decoNote>
-                     <decoNote type="border">
-                        <p>Three borders in red and blue infilled with complex penwork decoration consisting of
-                           interlace with roundels in red and green. Border Width: 36mm (top border), 42mm
-                           (left border), and 53mm (bottom border)</p>
-                     </decoNote>
-                  </decoDesc>
-                  <musicNotation>
-                     <p>Square notation on 5-line red staves</p>
-                  </musicNotation>
-                  <additions>
-                     <p>Corrections to the music notation appear to have been made by scraping notes off the
-                        parchment</p>
-                  </additions>
-               </objectDesc>
-            </physDesc>
-            <history>
-               <origin>
-                  <origPlace>Southern Spain</origPlace>
-                  <origDate>ca. 1520</origDate>
-               </origin>
-            </history>
-            <additional>
-               <recordHist>
-                  <source>
-                     <p>Transcribed from existing description.</p>
-                  </source>
-                  <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
-                     physical description of the manuscript
-                  </change>
-               </recordHist>
-            </additional>
-         </msDesc>
-      </sourceDesc>
-   </fileDesc>
-</teiHeader>
+<msDesc>
+   <msIdentifier>
+      <country>USA</country>
+      <region>South Carolina</region>
+      <settlement>Greenville</settlement>
+      <institution>Furman University</institution>
+      <repository>James B. Duke Library</repository>
+      <collection>Special Collections and Archives</collection>
+      <collection>2015-2016 Acquisitions</collection>
+      <idno>????</idno>
+   </msIdentifier>
+   <msContents>
+      <summary>Text from the introit "Spiritus Domini" for the feast of Pentecost</summary>
+      <textLang mainLang="la">Latin</textLang>
+   </msContents>
+   <physDesc>
+      <objectDesc>
+         <supportDesc material="perg">
+            <support>
+               <p>Vellum</p>
+            </support>
+            <extent>1 folio
+               <dimensions scope="all" type="folio" unit="mm">
+                  <height>526</height>
+                  <width>352</width>
+               </dimensions>
+            </extent>
+            <condition>
+               <p>The manuscript is in good condition with some discoloration around the edges.</p>
+            </condition>
+         </supportDesc>
+         <layoutDesc>
+            <layout columns="1">
+               <p>Written in one column with 7 staves.</p>
+            </layout>
+         </layoutDesc>
+         <handDesc>
+            <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+         </handDesc>
+         <decoDesc>
+            <decoNote type="capitals">
+               <p>15 black capitals with green highlighting.</p>
+            </decoNote>
+            <decoNote type="initial">
+               <p>A large puzzle initial S (95mm X 102mm) in red and blue infilled with elaborate
+                  penwork in red and green</p>
+            </decoNote>
+            <decoNote type="initial">
+               <p>One staff-initial in red with contrasting purple penwork</p>
+            </decoNote>
+            <decoNote type="border">
+               <p>Three borders in red and blue infilled with complex penwork decoration consisting of
+                  interlace with roundels in red and green. Border Width: 36mm (top border), 42mm
+                  (left border), and 53mm (bottom border)</p>
+            </decoNote>
+         </decoDesc>
+         <musicNotation>
+            <p>Square notation on 5-line red staves</p>
+         </musicNotation>
+         <additions>
+            <p>Corrections to the music notation appear to have been made by scraping notes off the
+               parchment</p>
+         </additions>
+      </objectDesc>
+   </physDesc>
+   <history>
+      <origin>
+         <origPlace>Southern Spain</origPlace>
+         <origDate>ca. 1520</origDate>
+      </origin>
+   </history>
+   <additional>
+      <recordHist>
+         <source>
+            <p>Transcribed from existing description.</p>
+         </source>
+         <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
+            physical description of the manuscript
+         </change>
+      </recordHist>
+   </additional>
+</msDesc>
