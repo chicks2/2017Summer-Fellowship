@@ -1,5 +1,5 @@
 <msDesc>
-   <msIntifier>
+   <msIdentifier>
       <country>USA</country>
       <region>South Carolina</region>
       <settlement>Greenville</settlement>
@@ -8,7 +8,7 @@
       <collection>Special Collections and Archives</collection>
       <collection>2015-2016 Acquisitions</collection>
       <idno>????</idno>
-   </msIntifier>
+   </msIdentifier>
    <msContents>
       <summary>Text contains the end of the first and opening of second nocturn for an unspecified
          Matins service.</summary>
@@ -36,25 +36,25 @@
                <p>Written in one column with 8 staves.</p>
             </layout>
          </layoutDesc>
-         <handDesc>
-            <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
-         </handDesc>
-         <decoDesc>
-            <decoNote type="initial">
-               <p>Ten one-line high initials in alternating red and blue with contrasting penwork</p>
-            </decoNote>
-            <decoNote type="initial">
-               <p><locus>1v, sixth staff</locus>One-line high foliate colored initial in red and blue</p>
-            </decoNote>
-            <decoNote type="initial">
-               <p><locus>2r, sixth staff</locus>One-line high colored initial in red and blue with a
-                  human figure holding his handsup in prayer</p>
-            </decoNote>
-         </decoDesc>
-         <musicNotation>
-            <p>Square notation on 4-line red staves</p>
-         </musicNotation>
       </objectDesc>
+      <handDesc>
+         <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+      </handDesc>
+      <musicNotation>
+         <p>Square notation on 4-line red staves</p>
+      </musicNotation>
+      <decoDesc>
+         <decoNote type="initial">
+            <p>Ten one-line high initials in alternating red and blue with contrasting penwork</p>
+         </decoNote>
+         <decoNote type="initial">
+            <p><locus>1v, sixth staff</locus>One-line high foliate colored initial in red and blue</p>
+         </decoNote>
+         <decoNote type="initial">
+            <p><locus>2r, sixth staff</locus>One-line high colored initial in red and blue with a
+               human figure holding his handsup in prayer</p>
+         </decoNote>
+      </decoDesc>
    </physDesc>
    <history>
       <origin>
@@ -63,13 +63,15 @@
       </origin>
    </history>
    <additional>
-      <recordHist>
-         <source>
-            <p>Transcribed from existing description.</p>
-         </source>
-         <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
-            physical description of the manuscript
-         </change>
-      </recordHist>
+      <adminInfo>
+         <recordHist>
+            <source>
+               <p>Transcribed from existing description.</p>
+            </source>
+            <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
+               physical description of the manuscript
+            </change>
+         </recordHist>
+      </adminInfo>
    </additional>
 </msDesc>

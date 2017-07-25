@@ -26,21 +26,21 @@
                   good condition.</p>
             </condition>
          </supportDesc>
-         <handDesc>
-            <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
-         </handDesc>
-         <decoDesc>
-            <decoNote type="initial">
-               <p>One large initial (56mm X 67mm)in green and various shades of blue with white penwork
-                  highlights infilled with green, blue, and yellow foliage on a maroon background, all
-                  on bright gold grounds; a foliate extension in the margin with multi-colored flowers,
-                  stems, and foliage, enhanced by gold bezants and white penwork.</p>
-            </decoNote>
-         </decoDesc>
-         <musicNotation>
-            <p>Square notation on 4-line red staves</p>
-         </musicNotation>
       </objectDesc>
+      <handDesc>
+         <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+      </handDesc>
+      <musicNotation>
+         <p>Square notation on 4-line red staves</p>
+      </musicNotation>
+      <decoDesc>
+         <decoNote type="initial">
+            <p>One large initial (56mm X 67mm)in green and various shades of blue with white penwork
+               highlights infilled with green, blue, and yellow foliage on a maroon background, all
+               on bright gold grounds; a foliate extension in the margin with multi-colored flowers,
+               stems, and foliage, enhanced by gold bezants and white penwork.</p>
+         </decoNote>
+      </decoDesc>
    </physDesc>
    <history>
       <origin>
@@ -49,13 +49,15 @@
       </origin>
    </history>
    <additional>
-      <recordHist>
-         <source>
-            <p>Transcribed from existing description.</p>
-         </source>
-         <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
-            physical description of the manuscript
-         </change>
-      </recordHist>
+      <adminInfo>
+         <recordHist>
+            <source>
+               <p>Transcribed from existing description.</p>
+            </source>
+            <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
+               physical description of the manuscript
+            </change>
+         </recordHist>
+      </adminInfo>
    </additional>
 </msDesc>

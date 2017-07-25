@@ -34,34 +34,34 @@
                <p>Written in one column with 7 staves.</p>
             </layout>
          </layoutDesc>
-         <handDesc>
-            <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
-         </handDesc>
-         <decoDesc>
-            <decoNote type="capitals">
-               <p>15 black capitals with green highlighting.</p>
-            </decoNote>
-            <decoNote type="initial">
-               <p>A large puzzle initial S (95mm X 102mm) in red and blue infilled with elaborate
-                  penwork in red and green</p>
-            </decoNote>
-            <decoNote type="initial">
-               <p>One staff-initial in red with contrasting purple penwork</p>
-            </decoNote>
-            <decoNote type="border">
-               <p>Three borders in red and blue infilled with complex penwork decoration consisting of
-                  interlace with roundels in red and green. Border Width: 36mm (top border), 42mm
-                  (left border), and 53mm (bottom border)</p>
-            </decoNote>
-         </decoDesc>
-         <musicNotation>
-            <p>Square notation on 5-line red staves</p>
-         </musicNotation>
-         <additions>
-            <p>Corrections to the music notation appear to have been made by scraping notes off the
-               parchment</p>
-         </additions>
       </objectDesc>
+      <handDesc>
+         <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+      </handDesc>
+      <musicNotation>
+         <p>Square notation on 5-line red staves</p>
+      </musicNotation>
+      <decoDesc>
+         <decoNote type="capitals">
+            <p>15 black capitals with green highlighting.</p>
+         </decoNote>
+         <decoNote type="initial">
+            <p>A large puzzle initial S (95mm X 102mm) in red and blue infilled with elaborate
+               penwork in red and green</p>
+         </decoNote>
+         <decoNote type="initial">
+            <p>One staff-initial in red with contrasting purple penwork</p>
+         </decoNote>
+         <decoNote type="border">
+            <p>Three borders in red and blue infilled with complex penwork decoration consisting of
+               interlace with roundels in red and green. Border Width: 36mm (top border), 42mm
+               (left border), and 53mm (bottom border)</p>
+         </decoNote>
+      </decoDesc>
+      <additions>
+         <p>Corrections to the music notation appear to have been made by scraping notes off the
+            parchment</p>
+      </additions>
    </physDesc>
    <history>
       <origin>
@@ -70,13 +70,15 @@
       </origin>
    </history>
    <additional>
-      <recordHist>
-         <source>
-            <p>Transcribed from existing description.</p>
-         </source>
-         <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
-            physical description of the manuscript
-         </change>
-      </recordHist>
+      <adminInfo>
+         <recordHist>
+            <source>
+               <p>Transcribed from existing description.</p>
+            </source>
+            <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
+               physical description of the manuscript
+            </change>
+         </recordHist>
+      </adminInfo>
    </additional>
 </msDesc>

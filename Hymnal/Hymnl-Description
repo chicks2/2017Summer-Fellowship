@@ -13,11 +13,12 @@
       <summary>Fragments of 2 hymns for Holy Week</summary>
       <msItem n="1">
          <title>"Aures ad nostras"</title>
+         <textLang mainLang="la">Latin</textLang>
       </msItem>
       <msItem n="2">
          <title>"Vexilla Regis"</title>
+         <textLang mainLang="la">Latin</textLang>
       </msItem>
-      <textLang mainLang="la">Latin</textLang>
    </msContents>
    <physDesc>
       <objectDesc>
@@ -41,24 +42,24 @@
                <p>Written in two columns with space for 18 lines of text in each column.</p>
             </layout>
          </layoutDesc>
-         <handDesc>
-            <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
-         </handDesc>
-         <decoDesc>
-            <decoNote type="initial">
-               <p>Eight one-line high initials in alternating red and blue with contrasting penwork</p>
-            </decoNote>
-            <decoNote type="initial">
-               <p>One two-line high initial in blue with red penwork infilled with yellow</p>
-            </decoNote>
-            <decoNote type="initial">
-               <p>One staff high initial in red with blue penwork</p>
-            </decoNote>
-         </decoDesc>
-         <musicNotation>
-            <p>Square notation on both 3-line and 4-line red staves</p>
-         </musicNotation>
       </objectDesc>
+      <handDesc>
+         <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+      </handDesc>
+      <musicNotation>
+         <p>Square notation on both 3-line and 4-line red staves</p>
+      </musicNotation>
+      <decoDesc>
+         <decoNote type="initial">
+            <p>Eight one-line high initials in alternating red and blue with contrasting penwork</p>
+         </decoNote>
+         <decoNote type="initial">
+            <p>One two-line high initial in blue with red penwork infilled with yellow</p>
+         </decoNote>
+         <decoNote type="initial">
+            <p>One staff high initial in red with blue penwork</p>
+         </decoNote>
+      </decoDesc>
    </physDesc>
    <history>
       <origin>
@@ -67,12 +68,14 @@
       </origin>
    </history>
    <additional>
-      <recordHist>
-         <source>
-            <p>Transcribed from existing description.</p>
-         </source>
-         <change when="2017-07-19">On July 19 2017 <name>CMH</name> added a more detailed
-            physical description of the manuscript</change>
-      </recordHist>
+      <adminInfo>
+         <recordHist>
+            <source>
+               <p>Transcribed from existing description.</p>
+            </source>
+            <change when="2017-07-19">On July 19 2017 <name>CMH</name> added a more detailed
+               physical description of the manuscript</change>
+         </recordHist>
+      </adminInfo>
    </additional>
 </msDesc>

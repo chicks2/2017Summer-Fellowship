@@ -35,21 +35,21 @@
                <p>Written in one column with six staves.</p>
             </layout>
          </layoutDesc>
-         <handDesc>
-            <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
-         </handDesc>
-         <decoDesc>
-            <decoNote type="initial">
-               <p>One staff high initial in red</p>
-            </decoNote>
-            <decoNote type="initial">
-               <p>One staff high initial in black infilled with red</p>
-            </decoNote>
-         </decoDesc>
-         <musicNotation>
-            <p>Square notation on 4-line red staves</p>
-         </musicNotation>
       </objectDesc>
+      <handDesc>
+         <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+      </handDesc>
+      <musicNotation>
+         <p>Square notation on 4-line red staves</p>
+      </musicNotation>
+      <decoDesc>
+         <decoNote type="initial">
+            <p>One staff high initial in red</p>
+         </decoNote>
+         <decoNote type="initial">
+            <p>One staff high initial in black infilled with red</p>
+         </decoNote>
+      </decoDesc>
    </physDesc>
    <history>
       <origin>
@@ -58,12 +58,14 @@
       </origin>
    </history>
    <additional>
-      <recordHist>
-         <source>
-            <p>Transcribed from existing description.</p>
-         </source>
-         <change when="2017-07-20">On July 19 2017 <name>CMH</name> added a more detailed
-         physical description of the manuscript</change>
-      </recordHist>
+      <adminInfo>
+         <recordHist>
+            <source>
+               <p>Transcribed from existing description.</p>
+            </source>
+            <change when="2017-07-20">On July 19 2017 <name>CMH</name> added a more detailed
+            physical description of the manuscript</change>
+         </recordHist>
+      </adminInfo>
    </additional>
 </msDesc>
