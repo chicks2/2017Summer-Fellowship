@@ -1,1 +1,94 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TOC Gradual</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished</p>
+      </publicationStmt>
+      <sourceDesc>
+         <msDesc>
+            <msIdentifier>
+               <country>USA</country>
+               <region>South Carolina</region>
+               <settlement>Greenville</settlement>
+               <institution>Furman University</institution>
+               <repository>James B. Duke Library</repository>
+               <collection>Special Collections and Archives</collection>
+               <collection>2015-2016 Acquisitions</collection>
+               <idno>????</idno>
+            </msIdentifier>
+            <msContents>
+               <summary>Text contains special rubrics prefacing the Common of Saints for the time of Easter in late March
+                  and April, giving directions for specific feasts should they fall during Easter, and folio references
+                  within the book for specific alleluias, offertories, graduals, and post communions.</summary>
+               <textLang mainLang="la">Latin</textLang>
+            </msContents>
+            <physDesc>
+               <objectDesc>
+                  <supportDesc material="perg">
+                     <support>
+                        <p>Vellum</p>
+                     </support>
+                     <extent>1 folio
+                        <dimensions scope="all" type="folio" unit="mm">
+                           <height>518</height>
+                           <width>350</width>
+                        </dimensions>
+                     </extent>
+                     <condition>
+                        <p>The manuscript is slightly soiled, but otherwise in good condition.</p>
+                     </condition>
+                  </supportDesc>
+                  <layoutDesc>
+                     <layout columns="1">
+                        <p>Written in one column.</p>
+                     </layout>
+                  </layoutDesc>
+               </objectDesc>
+               <handDesc>
+                  <p>Information about the handwriting...LOOK THIS UP!!!!!!</p>
+               </handDesc>
+               <musicNotation>
+                  <p>Square notation on 5-line red staves</p>
+               </musicNotation>
+               <decoDesc>
+                  <decoNote type="initial">
+                     <p>One staff-high initial A in red framed in black penwork infilled with foliate designs
+                        and touched in yellow</p>
+                  </decoNote>
+                  <decoNote type="initial">
+                     <p>One staff-high strap work initial I in  black</p>
+                  </decoNote>
+               </decoDesc>
+            </physDesc>
+            <history>
+               <origin>
+                  <origPlace>Spain</origPlace>
+                  <origDate>ca. 1525</origDate>
+               </origin>
+            </history>
+            <additional>
+               <adminInfo>
+                  <recordHist>
+                     <source>
+                        <p>Transcribed from existing description.</p>
+                     </source>
+                     <change when="2017-07-24">On July 24 2017 <name>CMH</name> added a more detailed
+                        physical description of the manuscript
+                     </change>
+                  </recordHist>
+               </adminInfo>
+            </additional>
+         </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p></p>
+    </body>
+  </text>
+</TEI>
