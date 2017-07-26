@@ -1,5 +1,26 @@
-<text>
-  <body>
-    <p></p>
-  </body>
-</text>
+<p>Ut ger
+<notatedMusic>
+   <mei:mdiv>
+      <mei:score>
+         <mei:scoreDef>
+            <mei:staffGrp barthru="false">
+               <mei:staffDef n="1" lines="4" clef.line="3" clef.shape="F"/>
+            </mei:staffGrp>
+         </mei:scoreDef>
+         <mei:section>
+            <mei:staff n="1">
+               <mei:layer n="1">
+                  <mei:note dur= "longa" oct= "3" pname= "f"/>
+                  <mei:note dur= "longa" oct= "3" pname= "e"/>
+                  <mei:note dur= "longa" oct= "3" pname= "e"/>
+                  <mei:note dur= "longa" oct= "3" pname= "d"/>
+                  <mei:note dur= "longa" oct= "3" pname= "f"/>
+                  <mei:note dur= "longa" oct= "3" pname= "e"/>
+                  <mei:note dur= "maxima" oct= "3" pname= "d"/>
+               </mei:layer>
+            </mei:staff>
+         </mei:section>
+      </mei:score>
+   </mei:mdiv>
+</notatedMusic>
+</p>
