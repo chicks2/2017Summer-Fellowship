@@ -1,26 +1,397 @@
-<p>Ut ger
-<notatedMusic>
-   <mei:mdiv>
-      <mei:score>
-         <mei:scoreDef>
-            <mei:staffGrp barthru="false">
-               <mei:staffDef n="1" lines="4" clef.line="3" clef.shape="F"/>
-            </mei:staffGrp>
-         </mei:scoreDef>
-         <mei:section>
-            <mei:staff n="1">
-               <mei:layer n="1">
-                  <mei:note dur= "longa" oct= "3" pname= "f"/>
-                  <mei:note dur= "longa" oct= "3" pname= "e"/>
-                  <mei:note dur= "longa" oct= "3" pname= "e"/>
-                  <mei:note dur= "longa" oct= "3" pname= "d"/>
-                  <mei:note dur= "longa" oct= "3" pname= "f"/>
-                  <mei:note dur= "longa" oct= "3" pname= "e"/>
-                  <mei:note dur= "maxima" oct= "3" pname= "d"/>
-               </mei:layer>
-            </mei:staff>
-         </mei:section>
-      </mei:score>
-   </mei:mdiv>
+Recto:
+   <mdiv>
+      <score>
+         <section>
+            <staff n="1">
+            <staffDef n="1" lines="4" clef.line="3" clef.shape="F"/>
+               <layer n="1">
+                  <syllable>
+                     <syl>A??????????????????????????????????c_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "a"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ti</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>su_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "a"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>mus</syl>
+                     <uneume name= "torculus">
+                        <note oct= "3" pname= "g"/>
+                        <note oct= "3" pname= "a"/>
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <double_barline ???????????/>
+                  <syllable>
+                     <syl>si_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>cut</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>con_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>so_</syl>
+                     <uneume name= "clivis">
+                        <note oct= "3" pname= "f"/>
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>la_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ti</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+                  <double_barline ???????????/>
+                  <staffDef n="1" lines="4" clef.line="2" clef.shape="F"/>
+                  <syllable>
+                     <syl>A_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lle_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lu_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ia</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <double_barline ???????????/>
+                  <syllable>
+                     <syl>a_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lle_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "b"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lu_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "a"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ia</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "a"/>
+                     </uneume>
+                  </syllable>
+                  <single_barline ???????????/>
+                  <syllable>
+                     <syl>a_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "a"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lle_</syl>
+                     <uneume name= "podatus">
+                        <note oct= "3" pname= "a"/>
+                        <note oct= "3" pname= "b"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lu_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ia</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <single_barline ???????????/>
+                  <syllable>
+                     <syl>a_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lle_</syl>
+                     <uneume name= "clivis">
+                        <note oct= "3" pname= "g"/>
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lu_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ia</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <double_barline ???????????/>
+                  <syllable>
+                     <syl>Ok_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>llu_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ris</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>al_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "a"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>me</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <staffDef n="1" lines="4" clef.line="3" clef.shape="F"/>
+                  <syllable>
+                     <syl>con_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>di_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>tor</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <double_barline ???????????/>
+                  <syllable>
+                     <syl>mun_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>di</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>so_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lur</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>qui</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>se_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>pa_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>rans</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <single_barline ???????????/>
+                  <syllable>
+                     <syl>pul_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>sis</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>a_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>que</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "a"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>mo_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>le_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>sti_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>us</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <single_barline ???????????/>
+                  <syllable>
+                     <syl>ter_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "g"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ram</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+               </layer>
+            </staff>
+         </section>
+      </score>
+   </mdiv>
 </notatedMusic>
-</p>
+Verso:
+<notatedMusic>
+   <mdiv>
+      <score>
+         <section>
+            <staff n="1">
+            <staffDef n="1" lines="4" clef.line="3" clef.shape="F"/>
+               <layer n="1">
+                  <syllable>
+                     <syl>dec_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>li_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>sti</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>un_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>mo_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>bi_</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>len</syl>
+                     <uneume name= "virga">
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+               </layer>
+            </staff>
+         </section>
+      </score>
+   </mdiv>
+</notatedMusic>
