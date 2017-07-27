@@ -1,5 +1,229 @@
-<text>
-  <body>
-    <p></p>
-  </body>
-</text>
+Recto:
+   <mdiv>
+      <score>
+         <section>
+            <staff n="1">
+            <staffDef n="1" lines="5" clef.line="4" clef.shape="C"/>
+               <layer n="1">
+                  <syllable>
+                     <syl>in_</syl>
+                     <uneume name= "punctum">
+                        <note oct= "4" pname= "c"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ea</syl>
+                     <ineume name="clivis">
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </ineume>
+                  </syllable>
+                  <syllable>
+                     <syl>na_</syl>
+                     <ineume name= "podatus">
+                        <uneume name="punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                        <uneume name="punctum">
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </ineume>
+                  </syllable>
+                  <syllable>
+                     <syl>tum</syl>
+                     <uneume name= "torculus">
+                        <note oct= "3" pname= "b"/>
+                        <note oct= "4" pname= "c"/>
+                        <note oct= "3" pname= "b"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>est</syl>
+                     <uneume name= "punctum">
+                        <note oct= "3" pname= "b"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>de_</syl>
+                     <ineume name="distropha">
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "virga">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </ineume>
+                  </syllable>
+                  <syllable>
+                     <syl>spi_</syl>
+                     <uneume name= "climacus">
+                        <note oct= "3" pname= "a"/>
+                        <note oct= "3" pname= "g"/>
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>ci</syl>
+                     <ineume name= "podatus">
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "virga">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </ineume>
+                  </syllable>
+                  <syllable>
+                     <syl>san_</syl>
+                     <uneume name= "punctum">
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>cto</syl>
+                     <uneume name= "torculus">
+                        <note oct= "3" pname= "e"/>
+                        <note oct= "3" pname= "g"/>
+                        <note oct= "3" pname= "f"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>est</syl>
+                     <uneume name= "clivis">
+                        <note oct= "3" pname= "f"/>
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                  </syllable>
+               </layer>
+            </staff>
+         </section>
+      </score>
+   </mdiv>
+Verso:
+   <mdiv>
+      <score>
+         <section>
+            <staff n="1">
+            <staffDef n="1" lines="5" clef.line="3" clef.shape="F"/>
+               <layer n="1">
+                  <syllable>
+                     <syl>A_</syl>
+                     <uneume name= "punctum">
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>lle_</syl>
+                     <uneume name= "climacus">
+                        <note oct= "3" pname= "e"/>
+                        <note oct= "3" pname= "d"/>
+                        <note oct= "3" pname= "c"/>
+                     </uneume>
+                     <ineume name= "podatus">
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "d"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "e"/>
+                        </uneume>
+                     </ineume>
+                     <ineume name= "clivis">
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "e"/>
+                        </uneume>
+                     </ineume>
+                  </syllable>
+                  <syllable>
+                     <syl>lu_</syl>
+                     <ineume name= "clivis">
+                        <uneume name= "virga">
+                           <note oct= "3" pname= "e"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "d"/>
+                        </uneume>
+                     </ineume>
+                  </syllable>
+                  <syllable>
+                     <syl>ya</syl>
+                     <ineume name= "clivis">
+                        <uneume name= "virga">
+                           <note oct= "3" pname= "e"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "d"/>
+                        </uneume>
+                     </ineume>
+                     <uneume name= "clivis">
+                        <note oct= "3" pname= "g"/>
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                     <uneume name= "climacus">
+                        <note oct= "3" pname= "f"/>
+                        <note oct= "3" pname= "e"/>
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                     <staffDef n="1" lines="5" clef.line="4" clef.shape="F"/>
+                     <ineume name= "scandicus">
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "d"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "e"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                     </ineume>
+                     <uneume name= "clivis">
+                        <note oct= "3" pname= "g"/>
+                        <note oct= "3" pname= "e"/>
+                     </uneume>
+                     <uneume name= "????climacus????">
+                        <note oct= "3" pname= "f"/>
+                        <note oct= "3" pname= "e"/>
+                        <note oct= "3" pname= "d"/>
+                        <note oct= "3" pname= "c"/>
+                     </uneume>
+                     <uneume name= "torculus">
+                        <note oct= "3" pname= "d"/>
+                        <note oct= "3" pname= "e"/>
+                        <note oct= "2" pname= "a"/>
+                     </uneume>
+                     <uneume name= "clivis">
+                        <note oct= "2" pname= "a"/>
+                        <note oct= "2" pname= "g"/>
+                     </uneume>
+                     <uneume name= "torculus">
+                        <note oct= "3" pname= "d"/>
+                        <note oct= "3" pname= "e"/>
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+                  <staffDef n="1" lines="5" clef.line="3" clef.shape="F"/>
+                  <syllable>
+                     <syl>I_</syl>
+                     <uneume name= "punctum">
+                        <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+                  <syllable>
+                     <syl>an_</syl>
+                     <uneume name= "climacus">
+                        <note oct= "3" pname= "e"/>
+                        <note oct= "3" pname= "d"/>
+                        <note oct= "3" pname= "c"/>
+                     </uneume>
+                  </syllable>
+               </layer>
+            </staff>
+         </section>
+      </score>
+   </mdiv>
