@@ -1,36 +1,1012 @@
-Recto:
-   <mdiv>
-      <score>
-         <section>
-            <staff n="1">
-            <staffDef n="1" lines="5" clef.line="4" clef.shape="C"/>
-               <layer n="1">
-                  <syllable>
-                     <syl>in_</syl>
-                     <uneume name= "punctum">
-                        <note oct= "4" pname= "c"/>
-                     </uneume>
-                  </syllable>
-               </layer>
-            </staff>
-         </section>
-      </score>
-   </mdiv>
-Verso:
-   <mdiv>
-      <score>
-         <section>
-            <staff n="1">
-            <staffDef n="1" lines="5" clef.line="3" clef.shape="F"/>
-               <layer n="1">
-                  <syllable>
-                     <syl>A_</syl>
-                     <uneume name= "punctum">
-                        <note oct= "3" pname= "d"/>
-                     </uneume>
-                  </syllable>
-               </layer>
-            </staff>
-         </section>
-      </score>
-   </mdiv>
+   Recto:
+      <mdiv>
+         <score>
+            <section>
+               <staff n="1">
+               <staffDef n="1" lines="5" clef.line="2" clef.shape="F"/>
+                  <layer n="1">
+                     <syllable>
+                        <syl>_s</syl>
+                        <uneume name= "porrectus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>fa_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "torculus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ci_</syl>
+                        <uneume name= "torculus">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>em</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>te_</syl>
+                        <uneume name= "distropha">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "e"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>rte</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>sit</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                        </ineume>
+                        <uneume name= "virga">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "porrectus">
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>glo_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ri_</syl>
+                        <ineume name= "scandicus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "b"/>
+                           </uneume>
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "d"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>a</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "e"/>
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                        <uneume name= "torculus">
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>do_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>mi_</syl>
+                        <ineume name="clivis">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                        </ineume>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ni</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>in</syl>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>se_</syl>
+                        <ineume name= "distropha">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>cu_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "torculus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "porrectus">
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>la</syl>
+                        <uneume name= "clivis">
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>a_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>lle_</syl>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                        </ineume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>lu_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ya</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                        </ineume>
+                        <uneume name= "torculus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                        <ineume name= "clivis">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                           <uneume name= "maxima">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <staffDef n="1" lines="5" clef.line="4" clef.shape="C">
+                        <keySig>1f</keySig>
+                     </staffDef>
+                     <syllable>
+                        <syl>Ul_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ti_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>mo</syl>
+                        <uneume name= "clivis">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>fe_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>stu_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>i</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>di_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "d"/>
+                           </uneume>
+                        </ineume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "e"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "virga">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>e</syl>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>di_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ce_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>bat</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>i_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>be_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>sus</syl>
+                        <uneume name= "torculus">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>qui</syl>
+                        <uneume name= "clivis">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ni</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>me</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                        <uneume name= "porrectus">
+                           <note oct= "4" pname= "e"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "e"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>cre_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "d"/>
+                           </uneume>
+                        </ineume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "e"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "virga">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>dit</syl>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>flu_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "e"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>mi_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>na</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>de_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>uen_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>tre</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ei_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>us</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>flu_</syl>
+                        <uneume name= "torculus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ent</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>a_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                        <uneume name= "porrectus">
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                        <uneume name= "virga">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "a" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>que</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>ui_</syl>
+                        <uneume name= "torculus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                  </layer>
+               </staff>
+            </section>
+         </score>
+      </mdiv>
+   Verso:
+      <mdiv>
+         <score>
+            <section>
+               <staff n="1">
+               <staffDef n="1" lines="5" clef.line="4" clef.shape="C"/>
+                  <layer n="1">
+                     <syllable>
+                        <syl>ue</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>lle_</syl>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>au_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>tem</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>di_</syl>
+                        <ineume name= "podatum">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "d"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>cit</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>de</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>spi_</syl>
+                        <uneume name= "podatus">
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "f"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ri_</syl>
+                        <ineume name= "porrectus">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "e"/>
+                           </uneume>
+                           <uneume name= "podatus">
+                              <note oct= "4" pname= "d"/>
+                              <note oct= "4" pname= "f"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>tu</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>quem</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>acccp_</syl>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>tu_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum"/>
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                           <uneume name= "punctum"/>
+                              <note oct= "4" pname= "d"/>
+                           </uneume>
+                        </ineume>
+                     <syllable>
+                        <syl>ri</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                     <syllable>
+                        <syl>e_</syl>
+                        <uneume name= "torculus">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>rant</syl>
+                        <ineume name= "clivis">
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>cre_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>den_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>tes</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>in</syl>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ei_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "f"/>
+                           </uneume>
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                        </ineume>
+                        <uneume name= "climacus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>um</syl>
+                        <uneume name= "virga">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "clivis">
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>a_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "f"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>lle_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "scandicus">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "e"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>lu_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "4" pname= "e"/>
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "virga">
+                           <note oct= "4" pname= "d"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ya</syl>
+                        <uneume name= "clivis">
+                           <note oct= "4" pname= "d"/>
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>a_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "f"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>lle_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <uneume name= "porrectus">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "b"/>
+                        </uneume>
+                        <uneume name= "????climacus????">
+                           <note oct= "4" pname= "c"/>
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>lu_</syl>
+                        <uneume name= "climacus">
+                           <note oct= "3" pname= "b"/>
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "f"/>
+                           </uneume>
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>ya</syl>
+                        <uneume name= "climacus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                        <uneume name= "virga">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "clivis">
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                     </syllable>
+                     <staffDef n="1" lines="5" clef.line="3" clef.shape="F"/>
+                     <syllable>
+                        <syl>SPI_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "d"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>RI_</syl>
+                        <uneume name= "torculus">
+                           <note oct= "3" pname= "f"/>
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>TUS</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "g"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>DO_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>MI_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                        <uneume name= "climacus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                        <uneume name= "virga">
+                           <note oct= "3" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>NI</syl>
+                        <uneume name= "clivis">
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "f"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>RE_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "3" pname= "f"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "3" pname= "a"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <staffDef n="1" lines="5" clef.line="2" clef.shape="F"/>
+                     <syllable>
+                        <syl>ple_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "d"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>uit</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>or_</syl>
+                        <ineume name= "podatus">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "d"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "e"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>bem</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "c"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>ter_</syl>
+                        <ineume name= "distropha">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>ra_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>rum</syl>
+                        <ineume name= "distropha">
+                           <uneume name= "punctum">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                           <uneume name= "virga">
+                              <note oct= "4" pname= "c"/>
+                           </uneume>
+                        </ineume>
+                     </syllable>
+                     <syllable>
+                        <syl>a_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "a"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>lle_</syl>
+                        <uneume name= "porrectus">
+                           <note oct= "3" pname= "a"/>
+                           <note oct= "3" pname= "g"/>
+                           <note oct= "3" pname= "a"/>
+                        </uneume>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                     <syllable>
+                        <syl>lu_</syl>
+                        <uneume name= "punctum">
+                           <note oct= "4" pname= "g"/>
+                        </uneume>
+                     </syllable>
+                  </layer>
+               </staff>
+            </section>
+         </score>
+      </mdiv>
