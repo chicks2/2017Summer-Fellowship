@@ -1,4 +1,4 @@
-Recto:
+1 Recto:
    <mdiv>
       <score>
          <section>
@@ -16,7 +16,7 @@ Recto:
          </section>
       </score>
    </mdiv>
-Verso:
+1 Verso:
    <mdiv>
       <score>
          <section>
@@ -27,6 +27,42 @@ Verso:
                      <syl>A_</syl>
                      <uneume name= "punctum">
                         <note oct= "3" pname= "d"/>
+                     </uneume>
+                  </syllable>
+               </layer>
+            </staff>
+         </section>
+      </score>
+   </mdiv>
+2 Recto:
+   <mdiv>
+      <score>
+         <section>
+            <staff n="1">
+            <staffDef n="1" lines="5" clef.line="4" clef.shape="C"/>
+               <layer n="1">
+                  <syllable>
+                     <syl>in_</syl>
+                     <uneume name= "punctum">
+                        <note oct= "4" pname= "c"/>
+                     </uneume>
+                  </syllable>
+               </layer>
+            </staff>
+         </section>
+      </score>
+   </mdiv>
+2 Verso:
+   <mdiv>
+      <score>
+         <section>
+            <staff n="1">
+            <staffDef n="1" lines="5" clef.line="4" clef.shape="C"/>
+               <layer n="1">
+                  <syllable>
+                     <syl>in_</syl>
+                     <uneume name= "punctum">
+                        <note oct= "4" pname= "c"/>
                      </uneume>
                   </syllable>
                </layer>
